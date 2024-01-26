@@ -1,0 +1,52 @@
+.aboutb{
+
+    background-color: #b9ccff;
+    color: #3a58ba;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 6px 5px;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 75%;
+    
+    
+    
+    
+    }
+    .homeb{
+
+    background-color: #b9ccff;
+    color: #3a58ba;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 6px 5px;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 75%;
+
+    }
+
+    .subjectb{
+
+        background-color: #b9ccff;
+        color: #3a58ba;
+        padding: 15px 15px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        margin: 6px 5px;
+        display: inline-block;
+        cursor: pointer;
+        border-radius: 75%;
+
+
+    }
+    .nav{
+
+        text-align: center;
+        
+    }

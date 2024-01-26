@@ -1,0 +1,22 @@
+h1{font-family: Apple Chancery;
+    text-align: center;
+font-size: 40px;
+border-style: dashed;
+border-color: rgb(112, 156, 200);}
+
+body{background-color: #c7edf4;}
+
+img{border-style: solid;
+border-color: rgb(55, 155, 155);
+border-radius: 70px;}
+
+.ai{margin-left: 10%;}
+
+.storybook{
+    text-align: right;
+    margin-right: 30%;
+}
+.aipro{display: flex; justify-content: space-around;}
+
+h3{font-family: Comic Sans MS;
+font-size: 16px;}
